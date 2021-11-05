@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WiFi RSSI Tester</string>
+    <string name="rssi">rssi</string>
+    <string name="untested">UNTESTED</string>
+    <string name="for_ie_use_only">For IE use only</string>
+    <string name="text">IE USE ONLY</string>
+    <string name="get_result_qr_code">GET QR CODE</string>
+    <string name="textRssi">TEST WIFI RSSI</string>
+</resources>
