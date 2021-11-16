@@ -1,5 +1,7 @@
 # Android-RSSI-to-QRCode-FactoryTest-tool-apk
 
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+
 Inspired by Sarim-Ahmed93 / QR-Code-Generator-Android-Kotlin 
 
 Used for portable devices production line FactoryTest use
